@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/L99D8/static/css/main.7c61ec39.css",
+    "main.js": "/L99D8/static/js/main.b11f41e2.js",
+    "static/media/boat23.jpg": "/L99D8/static/media/boat23.122ca70afff957aa922e.jpg",
+    "static/media/yacht3.jpg": "/L99D8/static/media/yacht3.958c2bcfba4b38606749.jpg",
+    "static/media/boat21.jpg": "/L99D8/static/media/boat21.539069baa996e05e9e6e.jpg",
+    "static/media/boat24.jpg": "/L99D8/static/media/boat24.881ec2f8781a4ad4984c.jpg",
+    "static/media/yacht2.jpg": "/L99D8/static/media/yacht2.d0dc565789d390a52cc3.jpg",
+    "static/media/interior1.jpg": "/L99D8/static/media/interior1.bbb47b7713d18f77ebaa.jpg",
+    "static/media/view1.jpg": "/L99D8/static/media/view1.3b8560a65d9411282d8a.jpg",
+    "static/media/boat22.jpg": "/L99D8/static/media/boat22.35cfdf4c5106f716989d.jpg",
+    "static/media/yacht1.jpg": "/L99D8/static/media/yacht1.02576df3a3256dc167dc.jpg",
+    "static/media/interior2.jpg": "/L99D8/static/media/interior2.468c826d2b480705955f.jpg",
+    "static/media/interior3.jpg": "/L99D8/static/media/interior3.17058e24aacafaf929b2.jpg",
+    "static/media/yach1.jpg": "/L99D8/static/media/yach1.1ba95c5ab02a8399f00a.jpg",
+    "static/media/hero-img.jpg": "/L99D8/static/media/hero-img.5e496385fb530555a4e2.jpg",
+    "static/media/yach2.jpg": "/L99D8/static/media/yach2.436e2dedbb713987c72c.jpg",
+    "index.html": "/L99D8/index.html",
+    "main.7c61ec39.css.map": "/L99D8/static/css/main.7c61ec39.css.map",
+    "main.b11f41e2.js.map": "/L99D8/static/js/main.b11f41e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c61ec39.css",
+    "static/js/main.b11f41e2.js"
+  ]
+}
